@@ -48,18 +48,18 @@ Para maior facilidade ao utilizar o TAD, o programa oferece um menu interativo, 
 
 ---
 
-### Via MYSYS2
-
-#### Clone o repositório
+#### Clone o repositório no terminal (powershell ou prompt de comando)
 
 ```bash
-git clone <https://github.com/brendda-thamyres/TAD_generico_ED1.git>
+git clone https://github.com/brendda-thamyres/TAD_generico_ED1.git
 ````
+
+### Via MYSYS2
 
 #### Vá até a pasta do projeto
 
 ```bash
-cd <TAD_generico_ED1>
+cd TAD_generico_ED1
 ```
 
 #### Compile no terminal
@@ -71,23 +71,17 @@ make
 #### Execute:
 
 ```bash
-./output/main.exe
+./main.exe
 ```
 
 ---
 
 ### Via Prompt de Comando
 
-#### Clone o repositório
-
-```bash
-git clone <https://github.com/brendda-thamyres/TAD_generico_ED1.git>
-```
-
 #### Vá até a pasta do projeto
 
 ```bash
-cd <TAD_generico_ED1>
+cd TAD_generico_ED1
 ```
 
 #### Compile:
@@ -99,5 +93,8 @@ gcc -Wall -Wextra -g3 casa.c main.c -o main.exe
 #### Execute:
 
 ```bash
-main.exe
+./main.exe
 ```
+
+--- 
+Este trabalho foi feito somente para fins acadêmicos.
