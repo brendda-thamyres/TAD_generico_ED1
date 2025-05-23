@@ -156,8 +156,10 @@ int main() {
                         printf("\n--- Casa Encontrada ---");
                         imprimirCasa(item);
                         break;
-                    } else { //se não encontra, dá um aviso e sai da opção
+                        
+                    } else if(!comparaItem(item, &chave)) { //se não encontra, dá um aviso e sai da opção
                         printf("\nCasa nao encontrada\n");
+                        break;
                     }
             }
             break;
