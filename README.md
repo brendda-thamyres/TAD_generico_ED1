@@ -2,7 +2,7 @@
 
 **Aluna:** Brendda Thamyres Mendes Rodrigues  
 **Professor:** Anselmo Cardoso de Paiva (ACP)  
-**Data:** Maio de 2025
+**Data:** Outubro de 2025
 
 **Universidade Federal do Maranhão**  
 **Curso de Ciência da Computação**
